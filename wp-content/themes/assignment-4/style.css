@@ -1,0 +1,11 @@
+/*
+Theme Name:     Assignment 4
+Description:    
+Author:         Ifrah
+Template:       pendant
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+.wp-block-site-title a {
+    color: blue;
+}
