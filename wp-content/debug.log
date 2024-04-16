@@ -92,3 +92,4 @@
 [16-Apr-2024 00:09:47 UTC] PHP Deprecated:  Function get_current_theme is deprecated since version 3.4.0! Use wp_get_theme() instead. in /wordpress/wp-includes/functions.php on line 135
 [16-Apr-2024 00:09:47 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
 [16-Apr-2024 00:09:57 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[16-Apr-2024 04:37:24 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
